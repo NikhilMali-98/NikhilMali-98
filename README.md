@@ -24,7 +24,7 @@
 
 # 💫 About Me:
 <div align="center">
-<h1 align="center">Hi 👋, I'm Nikhil Mali</h1><br><h3 align="center">A passionate amateur developer</h3><br>
+<h1 align="center">Hi 👋, I'm Nikhil Mali</h1><br><h3 align="center">A passionate amateur developer</h3><br><br><br>
 </div>
 
 # 💻 Tech Stack:
@@ -44,4 +44,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=NikhilMali-98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikhilMali-98&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMali-98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NikhilMali-98&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </div>
