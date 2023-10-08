@@ -24,7 +24,7 @@
 
 # 💫 About Me:
 <div align="center">
-<h1 align="center">Hi 👋, I'm Nikhil Mali</h1><br><h3 align="center">A passionate amateur developer</h3><br><br><br>
+<h1 align="center">Hi 👋, I'm Nikhil Mali</h1><br><h3 align="center">A passionate amateur developer</h3><br>
 </div>
 
 # 💻 Tech Stack:
