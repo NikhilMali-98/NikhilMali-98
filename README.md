@@ -9,9 +9,15 @@
   <a href="https://www.linkedin.com/in/nikhil-mali-461193274/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://portfolionikhilmali.000webhostapp.com/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio-logo&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
+    </a>
     <a href="https://www.hackerrank.com/nikhil_mali" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
+  <a href="https://leetcode.com/NikhilMali-98/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
+  </a>
   <a href="https://www.instagram.com/nikhil_mali_1998/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
